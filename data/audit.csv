@@ -1,0 +1,4 @@
+log_id,timestamp,user,action,details,category
+1,2025-11-12 17:09:03.681390,admin,Init,Sample audit,System
+2,2025-11-12 23:04:05.781586,admin,Task Created,Created task 2 (gfg),Tasks
+3,2025-11-12 23:04:27.536651,admin,Task Created,Created task 3 (fgg),Tasks

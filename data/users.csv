@@ -1,0 +1,4 @@
+username,password,role,team
+admin,admin,Admin,Core
+manager,manager,manager,core
+employee,employee,Employee,core
